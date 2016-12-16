@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\JSonPrinters\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\John\AndroidStudioProjects\JSonPrinters\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_827a895a0db6ae0ceabf9ac9e9c529e31e2008ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\JSonPrinters\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\John\AndroidStudioProjects\JSonPrinters\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_8068bff432cef027ca0764a3693bb17216e7a6ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\JSonPrinters\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5036b5c9b496d73d01a6f4450a7527e41feeb00">
+        <dex dex="C:\Users\John\AndroidStudioProjects\JSonPrinters\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b0c6d63b03575136fbb419cf5a71c68eb632887f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\John\AndroidStudioProjects\JSonPrinters\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_08128568db8a4a67d0fd88bfd1c295949e4f30f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\JSonPrinters\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a91e7fc9f125c0a3e3e40ea245f14acb63247348">
+        <dex dex="C:\Users\John\AndroidStudioProjects\JSonPrinters\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6207c0660fba516d67371c99d301d3f51e828afa\classes.dex" />
+    </item>
+
+</items>

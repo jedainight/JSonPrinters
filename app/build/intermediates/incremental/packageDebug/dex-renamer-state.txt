@@ -1,0 +1,7 @@
+#Fri Dec 16 15:10:53 EET 2016
+base.0=C\:\\Users\\John\\AndroidStudioProjects\\JSonPrinters\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b0c6d63b03575136fbb419cf5a71c68eb632887f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\John\\AndroidStudioProjects\\JSonPrinters\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6207c0660fba516d67371c99d301d3f51e828afa\\classes.dex
+base.1=C\:\\Users\\John\\AndroidStudioProjects\\JSonPrinters\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6207c0660fba516d67371c99d301d3f51e828afa
+file.0=C\:\\Users\\John\\AndroidStudioProjects\\JSonPrinters\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b0c6d63b03575136fbb419cf5a71c68eb632887f\\classes.dex
